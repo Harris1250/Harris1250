@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harris1250
-- 👀 I’m interested in getting better at coding.
+- 👀 I’m interested in ML and AI
 - 🌱 I’m currently learning JAVA 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: mnadeem2@student.gsu.edu
